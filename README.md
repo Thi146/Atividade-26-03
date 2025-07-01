@@ -9,6 +9,7 @@ Este projeto é uma calculadora simples desenvolvida com HTML, CSS e JavaScript,
 🏫 Curso: Análise e Desenvolvimento de Sistemas – Anhanguera
 
 💡 Objetivo
+
 O objetivo desta atividade foi praticar a criação de interfaces com HTML e aplicar funcionalidades com JavaScript, reforçando conceitos como:
 
 Manipulação do DOM
@@ -20,6 +21,7 @@ Operações matemáticas básicas
 Estrutura e organização de um projeto web simples
 
 🚀 Funcionalidades
+
 Adição
 
 Subtração
@@ -31,6 +33,7 @@ Divisão
 Limpar resultado
 
 🛠️ Tecnologias usadas
+
 HTML5
 
 CSS3
@@ -38,6 +41,7 @@ CSS3
 JavaScript
 
 📁 Como usar
+
 Clone o repositório ou baixe os arquivos .html, .css e .js
 
 Abra o arquivo index.html em qualquer navegador
