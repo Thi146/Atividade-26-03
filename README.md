@@ -1,4 +1,5 @@
 Calculadora em JavaScript 🧮
+
 Este projeto é uma calculadora simples desenvolvida com HTML, CSS e JavaScript, como parte da disciplina de Web Design do curso de Análise e Desenvolvimento de Sistemas na Anhanguera.
 
 📅 Data da atividade: 26/03
